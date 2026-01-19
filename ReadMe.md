@@ -6,7 +6,7 @@ Welcome to **Concept Compass**! This application is designed to help software en
 
 ## How It Works
 
-When you present your idea in Concept Compass, you’ll enter a chat environment with multiple AI agents, each assigned a different role:
+When you present your idea in Concept Compass, you’ll enter a chat environment with multiple AI agents, each assigned a different role. Some examples might be:
 
 - **The Planner:** This agent helps structure your idea by asking questions and developing a step-by-step plan.
 
