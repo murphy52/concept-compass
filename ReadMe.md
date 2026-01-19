@@ -36,7 +36,7 @@ All agents follow the same conversation thread, each offering their own insights
 
 ## Usage
 
-Start a session, describe your idea, and let Concept Compass guide you toward a clearer, more refined concept—or help you decide if it’s an idea worth pursuing.
+Start a session, describe your idea, and let Concept Compass guide you toward a clearer, more refined concept—or help you decide if it’s an idea worth pursuing. Once you're satisfied, you can view/download the detailed description and plan. 
 
 ---
 
